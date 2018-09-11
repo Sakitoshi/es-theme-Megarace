@@ -80,7 +80,7 @@ based on:		"Carbon" by Eric Hettervik
 				<secondaryColor>340844</secondaryColor>
 				<fontPath>./_inc/fonts/Bauhaus-Medium.otf</fontPath>
 				<pos>0.04 0.24</pos>
-				<size>0.36 0.68</size>
+				<size>0.36 0.67</size>
 				<fontSize>0.04</fontSize>
 				<horizontalMargin>0.01</horizontalMargin>
 			</textlist>
