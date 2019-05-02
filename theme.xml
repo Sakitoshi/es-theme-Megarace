@@ -242,7 +242,7 @@ based on:		"Carbon" by Eric Hettervik
 		</image>
 
 			<text name="md_name">
-				<pos>0.0 -0.068</pos>
+				<pos>0.011 -0.068</pos>
 				<size>0.98 0.68</size>
 				<color>340844</color>
 				<fontPath>./_inc/fonts/Bauhaus-Medium.otf</fontPath>
