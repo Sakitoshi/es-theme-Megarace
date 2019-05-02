@@ -258,13 +258,13 @@ based on:		"Carbon" by Eric Hettervik
 
 		<gridtile name="default">
 			<size>0.25 0.4</size>
-			<padding>0.1 0.1</padding>
+			<padding>8.0 8.0</padding>
 			<backgroundColor>964159</backgroundColor>
 		</gridtile>
 
 		<gridtile name="selected">
 			<size>0.35 0.5</size>
-			<padding>0.1 0.1</padding>
+			<padding>8.0 8.0</padding>
 			<backgroundColor>340844</backgroundColor>
 		</gridtile>
 	</view>
