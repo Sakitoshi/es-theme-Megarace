@@ -12,7 +12,7 @@ based on:		"Carbon" by Eric Hettervik
 
 	<formatVersion>4</formatVersion>
 
-	<view name="system, basic, detailed, video">
+	<view name="system, basic, detailed, video, grid">
 
 		<image name="background_color" extra="true">
 			<path>./_inc/images/background.png</path>
@@ -223,6 +223,50 @@ based on:		"Carbon" by Eric Hettervik
 			<maxSize>0.25 0.18</maxSize>
 		</image>
 
+	</view>
+
+	<view name="grid">
+
+		<image name="logo">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.12</pos>
+			<maxSize>0.36 0.22</maxSize>
+		</image>
+
+		<image name="background_name" extra="true">
+			<path>./_inc/images/mr_window3.png</path>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.275</pos>
+			<size>0.7 0.0875</size>
+			<color>FFFFFFFF</color>
+		</image>
+
+			<text name="md_name">
+				<pos>0.0 -0.068</pos>
+				<size>0.98 0.68</size>
+				<color>340844</color>
+				<fontPath>./_inc/fonts/Bauhaus-Medium.otf</fontPath>
+				<fontSize>0.04</fontSize>
+			</text>
+
+		<imagegrid name="gamegrid">
+			<pos>0.06 0.42</pos>
+			<size>0.93 0.4</size>
+			<margin>0.065 0.0</margin>
+			<scrollDirection>horizontal</scrollDirection>
+		</imagegrid>
+
+		<gridtile name="default">
+			<size>0.25 0.4</size>
+			<padding>0.1 0.1</padding>
+			<backgroundColor>964159</backgroundColor>
+		</gridtile>
+
+		<gridtile name="selected">
+			<size>0.35 0.5</size>
+			<padding>0.1 0.1</padding>
+			<backgroundColor>340844</backgroundColor>
+		</gridtile>
 	</view>
 
 </theme>
