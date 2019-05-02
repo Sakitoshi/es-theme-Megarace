@@ -1,6 +1,6 @@
 <!--
-theme name:		Megarace-HD
-version:		1.0
+theme name:		Megarace
+version:		1.1
 author:			Sakitoshi
 email:			
 website:		
@@ -98,7 +98,7 @@ based on:		"Carbon" by Eric Hettervik
 				<forceUppercase>1</forceUppercase>
 				<fontPath>./_inc/fonts/FSEX300.ttf</fontPath>
 				<fontSize>0.033</fontSize>
-				<size>0.24 0.01</size>
+				<size>0.20 0.01</size>
 			</text>
 
 			<text name="md_developer, md_publisher, md_genre, md_players, md_playcount">
@@ -106,14 +106,14 @@ based on:		"Carbon" by Eric Hettervik
 				<forceUppercase>0</forceUppercase>
 				<fontPath>./_inc/fonts/Bauhaus-Medium.otf</fontPath>
 				<fontSize>0.025</fontSize>
-				<size>0.23 0.02</size>
+				<size>0.17 0.02</size>
 			</text>
 			<datetime name="md_releasedate, md_lastplayed">
 				<color>FFFFFF</color>
 				<forceUppercase>0</forceUppercase>
 				<fontPath>./_inc/fonts/Bauhaus-Medium.otf</fontPath>
 				<fontSize>0.025</fontSize>
-				<size>0.23 0.02</size>
+				<size>0.17 0.02</size>
 			</datetime>
 
 				<text name="md_lbl_rating">
@@ -121,7 +121,7 @@ based on:		"Carbon" by Eric Hettervik
 				</text>
 				<rating name="md_rating">
 					<pos>0.758 0.13</pos>
-					<size>0.23 0.03</size>
+					<size>0.17 0.03</size>
 					<filledPath>./_inc/images/star_full.png</filledPath>
 					<unfilledPath>./_inc/images/star_hollow.png</unfilledPath>
 				</rating>
@@ -244,7 +244,7 @@ based on:		"Carbon" by Eric Hettervik
 			<text name="md_name">
 				<pos>0.011 -0.068</pos>
 				<size>0.98 0.68</size>
-				<color>340844</color>
+				<color>000000</color>
 				<fontPath>./_inc/fonts/Bauhaus-Medium.otf</fontPath>
 				<fontSize>0.04</fontSize>
 			</text>
