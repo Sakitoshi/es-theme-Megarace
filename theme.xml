@@ -26,7 +26,7 @@ based on:		"Carbon" by Eric Hettervik
 			<pos>0.014 0.96</pos>
 			<textColor>FFFFFF</textColor>
 			<iconColor>FFFFFF</iconColor>
-			<fontPath>./_inc/fonts/FSEX300.ttf</fontPath>
+			<fontPath>./_inc/fonts/FSEX200.ttf</fontPath>
 			<fontSize>0.033</fontSize>
 		</helpsystem>
 
