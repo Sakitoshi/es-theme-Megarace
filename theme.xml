@@ -96,7 +96,7 @@ based on:		"Carbon" by Eric Hettervik
 			<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 				<color>FFFFFF</color>
 				<forceUppercase>1</forceUppercase>
-				<fontPath>./_inc/fonts/FSEX300.ttf</fontPath>
+				<fontPath>./_inc/fonts/FSEX200.ttf</fontPath>
 				<fontSize>0.033</fontSize>
 				<size>0.20 0.01</size>
 			</text>
