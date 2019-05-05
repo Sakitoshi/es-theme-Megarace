@@ -4,6 +4,9 @@ Simple theme inspired in Megarace.
 Optimized for HD and CRT screens.
 Grid view included.
 
+#### Grid view size:
+- **You can choose betwhen 4 grid sizes, to do so open _custom.xml_ with a text editor and follow the instrutions.**
+
 #### How to install:
 **Manual install**
 1. **Download the theme (the green button that says _Clone or download_ then _Download ZIP_).**
