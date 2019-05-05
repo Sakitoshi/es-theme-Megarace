@@ -5,7 +5,7 @@ Optimized for HD and CRT screens.
 Grid view included.
 
 #### Grid view size:
-- **You can choose betwhen 4 grid sizes, to do so open _custom.xml_ with a text editor and follow the instrutions.**
+- **You can choose between 4 grid sizes, to do so open _custom.xml_ with a text editor and follow the instrutions.**
 
 #### How to install:
 **Manual install**
