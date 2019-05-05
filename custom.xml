@@ -1,0 +1,27 @@
+<!--
+Below you can change the size of the grid view.
+
+Grid sizes to choose from:
+1x3
+2x3
+1x5
+2x5
+-->
+
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<variables>
+
+		<!-- Select grid size -->
+		<gridSize>1x3</gridSize>
+
+	</variables>
+
+
+<!-- DON'T CHANGE ANYTHING BELOW THIS POINT -->
+
+	<include>./_inc/custom/grid_${gridSize}.xml</include>
+
+</theme>

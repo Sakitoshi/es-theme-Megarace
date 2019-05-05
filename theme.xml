@@ -1,16 +1,18 @@
 <!--
 theme name:		Megarace
-version:		1.1
+version:		1.2
 author:			Sakitoshi
 email:			
 website:		
-license:		creative commons CC-BY-NC-SA
+license:		GNU GPL v3
 based on:		"Carbon" by Eric Hettervik
 -->
 
 <theme>
 
 	<formatVersion>4</formatVersion>
+
+	<include>./custom.xml</include>
 
 	<view name="system, basic, detailed, video, grid">
 
@@ -249,24 +251,14 @@ based on:		"Carbon" by Eric Hettervik
 				<fontSize>0.04</fontSize>
 			</text>
 
-		<imagegrid name="gamegrid">
-			<pos>0.06 0.42</pos>
-			<size>0.93 0.4</size>
-			<margin>0.065 0.0</margin>
-			<scrollDirection>horizontal</scrollDirection>
-		</imagegrid>
-
 		<gridtile name="default">
-			<size>0.25 0.4</size>
-			<padding>8.0 8.0</padding>
 			<backgroundColor>964159</backgroundColor>
 		</gridtile>
 
 		<gridtile name="selected">
-			<size>0.35 0.5</size>
-			<padding>8.0 8.0</padding>
 			<backgroundColor>340844</backgroundColor>
 		</gridtile>
+
 	</view>
 
 </theme>

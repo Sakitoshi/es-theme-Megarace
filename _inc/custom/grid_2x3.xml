@@ -1,0 +1,27 @@
+
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="grid">
+
+		<imagegrid name="gamegrid">
+			<pos>0.06 0.37</pos>
+			<size>0.93 0.51</size>
+			<margin>0.065 0.065</margin>
+			<scrollDirection>vertical</scrollDirection>
+		</imagegrid>
+
+		<gridtile name="default">
+			<size>0.25 0.2227</size>
+			<padding>8.0 8.0</padding>
+		</gridtile>
+
+		<gridtile name="selected">
+			<size>0.32 0.29</size>
+			<padding>8.0 8.0</padding>
+		</gridtile>
+
+	</view>
+
+</theme>
