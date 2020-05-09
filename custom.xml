@@ -2,10 +2,10 @@
 Below you can change the size of the grid view.
 
 Grid sizes to choose from:
-1x3
-2x3
-1x5
-2x5
+3x1
+3x2
+5x1
+5x2
 -->
 
 <theme>
@@ -15,7 +15,7 @@ Grid sizes to choose from:
 	<variables>
 
 		<!-- Select grid size -->
-		<gridSize>1x3</gridSize>
+		<gridSize>3x1</gridSize>
 
 	</variables>
 

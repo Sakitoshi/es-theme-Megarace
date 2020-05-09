@@ -1,0 +1,26 @@
+
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="grid">
+
+		<imagegrid name="gamegrid">
+			<pos>0.0 0.42</pos>
+			<size>1.0 0.4</size>
+			<autoLayout>3 1</autoLayout>
+			<autoLayoutSelectedZoom>1.25</autoLayoutSelectedZoom>
+			<centerSelection>false</centerSelection>
+			<scrollLoop>false</scrollLoop>
+			<padding>0.06 0.0</padding>
+			<margin>0.065 0.0</margin>
+			<scrollDirection>horizontal</scrollDirection>
+		</imagegrid>
+
+		<gridtile name="default, selected">
+			<padding>8.0 8.0</padding>
+		</gridtile>
+
+	</view>
+
+</theme>

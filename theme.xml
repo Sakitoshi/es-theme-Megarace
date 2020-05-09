@@ -251,6 +251,10 @@ based on:		"Carbon" by Eric Hettervik
 				<fontSize>0.04</fontSize>
 			</text>
 
+		<image name="md_image">
+			<size>0.0 0.0</size>
+		</image>
+
 		<gridtile name="default">
 			<backgroundColor>964159</backgroundColor>
 		</gridtile>
